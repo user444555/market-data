@@ -3,70 +3,70 @@
     "markets": [
       {
         "name": "S&P 500",
-        "value": "$6,672.62",
+        "value": "$6,632.19",
         "currency": "USD",
-        "raw_last": 6672.6201171875,
+        "raw_last": 6632.18994140625,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-1.00%",
+        "d7": "-1.60%",
         "d7_dir": "down",
-        "ytd": "-2.71%",
+        "ytd": "-3.30%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/%5EGSPC",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "Nasdaq",
-        "value": "$22,311.98",
+        "value": "$22,105.36",
         "currency": "USD",
-        "raw_last": 22311.98046875,
+        "raw_last": 22105.359375,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-0.34%",
-        "d7_dir": "neutral",
-        "ytd": "-3.98%",
+        "d7": "-1.26%",
+        "d7_dir": "down",
+        "ytd": "-4.86%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/%5EIXIC",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "Dow Jones",
-        "value": "$46,677.85",
+        "value": "$46,558.47",
         "currency": "USD",
-        "raw_last": 46677.8515625,
+        "raw_last": 46558.46875,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-1.73%",
+        "d7": "-1.99%",
         "d7_dir": "down",
-        "ytd": "-3.52%",
+        "ytd": "-3.77%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/%5EDJI",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "DAX",
-        "value": "€23,589.65",
+        "value": "€23,447.29",
         "currency": "EUR",
-        "raw_last": 23589.650390625,
+        "raw_last": 23447.2890625,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-0.01%",
-        "d7_dir": "neutral",
-        "ytd": "-3.87%",
+        "d7": "-0.61%",
+        "d7_dir": "down",
+        "ytd": "-4.45%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/%5EGDAXI",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "CAC 40",
-        "value": "€7,984.44",
+        "value": "€7,911.53",
         "currency": "EUR",
-        "raw_last": 7984.43994140625,
+        "raw_last": 7911.52978515625,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-0.11%",
-        "d7_dir": "neutral",
-        "ytd": "-2.57%",
+        "d7": "-1.03%",
+        "d7_dir": "down",
+        "ytd": "-3.46%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/%5EFCHI",
         "source_name": "Yahoo Finance"
@@ -85,110 +85,110 @@
       },
       {
         "name": "BTC",
-        "value": "$71,429",
+        "value": "$70,634",
         "currency": "USD",
-        "d1": "+1.25%",
-        "d1_dir": "up",
-        "d7": "+4.81%",
+        "d1": "-0.47%",
+        "d1_dir": "neutral",
+        "d7": "+5.00%",
         "d7_dir": "up",
-        "ytd": "-18.39%",
+        "ytd": "-19.29%",
         "ytd_dir": "down",
         "source_url": "https://www.coingecko.com/en/coins/bitcoin",
         "source_name": "CoinGecko"
       },
       {
         "name": "ETH",
-        "value": "$2,100",
+        "value": "$2,078",
         "currency": "USD",
-        "d1": "+1.12%",
-        "d1_dir": "up",
-        "d7": "+6.01%",
+        "d1": "-0.73%",
+        "d1_dir": "down",
+        "d7": "+5.48%",
         "d7_dir": "up",
-        "ytd": "-29.22%",
+        "ytd": "-29.97%",
         "ytd_dir": "down",
         "source_url": "https://www.coingecko.com/en/coins/ethereum",
         "source_name": "CoinGecko"
       },
       {
         "name": "Złoto",
-        "value": "$5,093.1",
+        "value": "$5,061.7",
         "currency": "USD",
-        "raw_last": 5093.10009765625,
-        "d1": "-0.44%",
+        "raw_last": 5061.7001953125,
+        "d1": "+0.18%",
         "d1_dir": "neutral",
-        "d7": "-1.03%",
+        "d7": "-1.64%",
         "d7_dir": "down",
-        "ytd": "+18.05%",
+        "ytd": "+17.32%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/GC=F",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "Srebro",
-        "value": "$82.56",
+        "value": "$81.34",
         "currency": "USD",
-        "raw_last": 82.55500030517578,
-        "d1": "-2.50%",
-        "d1_dir": "down",
-        "d7": "-1.50%",
+        "raw_last": 81.34300231933594,
+        "d1": "+0.53%",
+        "d1_dir": "up",
+        "d7": "-2.95%",
         "d7_dir": "down",
-        "ytd": "+17.01%",
+        "ytd": "+15.29%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/SI=F",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "Miedź",
-        "value": "$5.80",
+        "value": "$5.76",
         "currency": "USD",
-        "raw_last": 5.804999828338623,
-        "d1": "-0.33%",
-        "d1_dir": "neutral",
-        "d7": "+0.83%",
-        "d7_dir": "up",
-        "ytd": "+2.93%",
+        "raw_last": 5.756999969482422,
+        "d1": "+0.74%",
+        "d1_dir": "up",
+        "d7": "+0.00%",
+        "d7_dir": "neutral",
+        "ytd": "+2.07%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/HG=F",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "Ropa WTI",
-        "value": "$96.20",
+        "value": "$98.71",
         "currency": "USD",
-        "raw_last": 96.19999694824219,
-        "d1": "+0.49%",
+        "raw_last": 98.70999908447266,
+        "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "+5.83%",
+        "d7": "+8.59%",
         "d7_dir": "up",
-        "ytd": "+67.83%",
+        "ytd": "+72.21%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/CL=F",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "Uran (URA)",
-        "value": "$50.77",
+        "value": "$49.29",
         "currency": "USD",
-        "raw_last": 50.77000045776367,
+        "raw_last": 49.290000915527344,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "+4.08%",
+        "d7": "+1.05%",
         "d7_dir": "up",
-        "ytd": "+10.23%",
+        "ytd": "+7.01%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/URA",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "Lit (LIT)",
-        "value": "$71.15",
+        "value": "$70.40",
         "currency": "USD",
-        "raw_last": 71.1500015258789,
+        "raw_last": 70.4000015258789,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "+3.16%",
+        "d7": "+2.07%",
         "d7_dir": "up",
-        "ytd": "+7.36%",
+        "ytd": "+6.23%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/LIT",
         "source_name": "Yahoo Finance"
@@ -198,14 +198,14 @@
       {
         "name": "Technologia (XLK)",
         "etf": "XLK",
-        "value": "$137.84",
+        "value": "$136.80",
         "currency": "USD",
-        "raw_last": 137.83999633789062,
+        "raw_last": 136.8000030517578,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "+0.40%",
+        "d7": "-0.36%",
         "d7_dir": "neutral",
-        "ytd": "-4.48%",
+        "ytd": "-5.20%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/XLK",
         "source_name": "Yahoo Finance"
@@ -213,14 +213,14 @@
       {
         "name": "Energetyka (XLE)",
         "etf": "XLE",
-        "value": "$57.51",
+        "value": "$57.70",
         "currency": "USD",
-        "raw_last": 57.5099983215332,
+        "raw_last": 57.70000076293945,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "+1.66%",
+        "d7": "+2.00%",
         "d7_dir": "up",
-        "ytd": "+25.98%",
+        "ytd": "+26.40%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/XLE",
         "source_name": "Yahoo Finance"
@@ -228,14 +228,14 @@
       {
         "name": "Finanse (XLF)",
         "etf": "XLF",
-        "value": "$48.83",
+        "value": "$48.89",
         "currency": "USD",
-        "raw_last": 48.83000183105469,
+        "raw_last": 48.88999938964844,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-3.44%",
+        "d7": "-3.32%",
         "d7_dir": "down",
-        "ytd": "-11.11%",
+        "ytd": "-11.00%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/XLF",
         "source_name": "Yahoo Finance"
@@ -243,14 +243,14 @@
       {
         "name": "Ochrona zdrowia (XLV)",
         "etf": "XLV",
-        "value": "$150.16",
+        "value": "$149.79",
         "currency": "USD",
-        "raw_last": 150.16000366210938,
+        "raw_last": 149.7899932861328,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-1.66%",
+        "d7": "-1.91%",
         "d7_dir": "down",
-        "ytd": "-3.44%",
+        "ytd": "-3.68%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/XLV",
         "source_name": "Yahoo Finance"
@@ -258,14 +258,14 @@
       {
         "name": "Nieruchomości (XLRE)",
         "etf": "XLRE",
-        "value": "$42.14",
+        "value": "$42.25",
         "currency": "USD",
-        "raw_last": 42.13999938964844,
+        "raw_last": 42.25,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-1.75%",
+        "d7": "-1.49%",
         "d7_dir": "down",
-        "ytd": "+4.36%",
+        "ytd": "+4.63%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/XLRE",
         "source_name": "Yahoo Finance"
@@ -273,14 +273,14 @@
       {
         "name": "Usługi komunalne (XLU)",
         "etf": "XLU",
-        "value": "$46.50",
+        "value": "$46.96",
         "currency": "USD",
-        "raw_last": 46.5,
+        "raw_last": 46.959999084472656,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-0.51%",
-        "d7_dir": "down",
-        "ytd": "+7.69%",
+        "d7": "+0.47%",
+        "d7_dir": "neutral",
+        "ytd": "+8.75%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/XLU",
         "source_name": "Yahoo Finance"
@@ -288,14 +288,14 @@
       {
         "name": "Dobra konsumpcyjne (XLY)",
         "etf": "XLY",
-        "value": "$111.52",
+        "value": "$110.86",
         "currency": "USD",
-        "raw_last": 111.5199966430664,
+        "raw_last": 110.86000061035156,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-2.55%",
+        "d7": "-3.13%",
         "d7_dir": "down",
-        "ytd": "-5.77%",
+        "ytd": "-6.33%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/XLY",
         "source_name": "Yahoo Finance"
@@ -303,14 +303,14 @@
       {
         "name": "Przemysł (XLI)",
         "etf": "XLI",
-        "value": "$165.24",
+        "value": "$164.65",
         "currency": "USD",
-        "raw_last": 165.24000549316406,
+        "raw_last": 164.64999389648438,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-2.77%",
+        "d7": "-3.11%",
         "d7_dir": "down",
-        "ytd": "+4.60%",
+        "ytd": "+4.22%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/XLI",
         "source_name": "Yahoo Finance"
@@ -318,29 +318,29 @@
       {
         "name": "Motoryzacja / EV (DRIV)",
         "etf": "DRIV",
-        "value": "$30.41",
+        "value": "$30.14",
         "currency": "USD",
-        "raw_last": 30.40999984741211,
+        "raw_last": 30.139999389648438,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "+0.83%",
-        "d7_dir": "up",
-        "ytd": "-0.16%",
-        "ytd_dir": "neutral",
+        "d7": "-0.07%",
+        "d7_dir": "neutral",
+        "ytd": "-1.05%",
+        "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/DRIV",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "Rolnictwo / Agro (MOO)",
         "etf": "MOO",
-        "value": "$84.76",
+        "value": "$83.54",
         "currency": "USD",
-        "raw_last": 84.76000213623047,
+        "raw_last": 83.54000091552734,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "+3.32%",
+        "d7": "+1.83%",
         "d7_dir": "up",
-        "ytd": "+15.04%",
+        "ytd": "+13.38%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/MOO",
         "source_name": "Yahoo Finance"
@@ -348,14 +348,14 @@
       {
         "name": "Linie lotnicze (JETS)",
         "etf": "JETS",
-        "value": "$24.22",
+        "value": "$24.05",
         "currency": "USD",
-        "raw_last": 24.219999313354492,
+        "raw_last": 24.049999237060547,
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-4.46%",
+        "d7": "-5.13%",
         "d7_dir": "down",
-        "ytd": "-14.39%",
+        "ytd": "-14.99%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/JETS",
         "source_name": "Yahoo Finance"
@@ -369,7 +369,7 @@
           {
             "name": "ASML",
             "sym": "ASML",
-            "value": "$1,351.58",
+            "value": "$1,345.69",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -377,7 +377,7 @@
           {
             "name": "TSM",
             "sym": "TSM",
-            "value": "$336.71",
+            "value": "$338.31",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -385,7 +385,7 @@
           {
             "name": "NVDA",
             "sym": "NVDA",
-            "value": "$183.14",
+            "value": "$180.25",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -393,7 +393,7 @@
           {
             "name": "AMD",
             "sym": "AMD",
-            "value": "$197.74",
+            "value": "$193.39",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -401,7 +401,7 @@
           {
             "name": "AVGO",
             "sym": "AVGO",
-            "value": "$335.97",
+            "value": "$322.16",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -409,7 +409,7 @@
           {
             "name": "ARM",
             "sym": "ARM",
-            "value": "$115.12",
+            "value": "$115.75",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -417,7 +417,7 @@
           {
             "name": "MU",
             "sym": "MU",
-            "value": "$405.35",
+            "value": "$426.13",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -425,7 +425,7 @@
           {
             "name": "AMAT",
             "sym": "AMAT",
-            "value": "$337.27",
+            "value": "$341.53",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -433,7 +433,7 @@
           {
             "name": "QRVO",
             "sym": "QRVO",
-            "value": "$78.77",
+            "value": "$78.12",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -441,7 +441,7 @@
           {
             "name": "AEHR",
             "sym": "AEHR",
-            "value": "$37.65",
+            "value": "$35.67",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -449,7 +449,7 @@
           {
             "name": "STM",
             "sym": "STM",
-            "value": "$33.24",
+            "value": "$32.87",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -457,7 +457,7 @@
           {
             "name": "UMC",
             "sym": "UMC",
-            "value": "$9.35",
+            "value": "$9.27",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -465,7 +465,7 @@
           {
             "name": "GFS",
             "sym": "GFS",
-            "value": "$41.59",
+            "value": "$41.86",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -473,7 +473,7 @@
           {
             "name": "VSH",
             "sym": "VSH",
-            "value": "$17.15",
+            "value": "$17.23",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -481,7 +481,7 @@
           {
             "name": "WOLF",
             "sym": "WOLF",
-            "value": "$16.97",
+            "value": "$16.70",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -489,7 +489,7 @@
           {
             "name": "TSEM",
             "sym": "TSEM",
-            "value": "$118.54",
+            "value": "$124.71",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -497,7 +497,7 @@
           {
             "name": "AIXA",
             "sym": "AIXA.DE",
-            "value": "€32.28",
+            "value": "€32.60",
             "currency": "EUR",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -505,7 +505,7 @@
           {
             "name": "SMHN",
             "sym": "SMHN.DE",
-            "value": "€58.30",
+            "value": "€60.00",
             "currency": "EUR",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -513,7 +513,7 @@
           {
             "name": "IFX",
             "sym": "IFX.DE",
-            "value": "€40.27",
+            "value": "€39.83",
             "currency": "EUR",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -521,7 +521,7 @@
           {
             "name": "ASM",
             "sym": "ASM.AS",
-            "value": "€707.80",
+            "value": "€686.00",
             "currency": "EUR",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -529,7 +529,7 @@
           {
             "name": "TPE",
             "sym": "TPE.DE",
-            "value": "€26.98",
+            "value": "€26.48",
             "currency": "EUR",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -537,9 +537,9 @@
         ],
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "+3.35%",
+        "d7": "+3.07%",
         "d7_dir": "up",
-        "ytd": "+15.53%",
+        "ytd": "+15.19%",
         "ytd_dir": "up",
         "source_url": null,
         "source_name": "Yahoo Finance (koszyk)"
@@ -553,7 +553,7 @@
           {
             "name": "IBM",
             "sym": "IBM",
-            "value": "$247.68",
+            "value": "$246.28",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -561,7 +561,7 @@
           {
             "name": "IONQ",
             "sym": "IONQ",
-            "value": "$33.03",
+            "value": "$32.98",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -569,7 +569,7 @@
           {
             "name": "RGTI",
             "sym": "RGTI",
-            "value": "$16.07",
+            "value": "$16.17",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -577,7 +577,7 @@
           {
             "name": "QBTS",
             "sym": "QBTS",
-            "value": "$17.83",
+            "value": "$17.55",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -585,7 +585,7 @@
           {
             "name": "QUBT",
             "sym": "QUBT",
-            "value": "$7.43",
+            "value": "$7.30",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -593,7 +593,7 @@
           {
             "name": "HON",
             "sym": "HON",
-            "value": "$233.40",
+            "value": "$234.50",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -601,7 +601,7 @@
           {
             "name": "MSFT",
             "sym": "MSFT",
-            "value": "$401.86",
+            "value": "$395.55",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -609,7 +609,7 @@
           {
             "name": "GOOGL",
             "sym": "GOOGL",
-            "value": "$303.55",
+            "value": "$302.28",
             "currency": "USD",
             "d1": "+0.00%",
             "d1_dir": "neutral"
@@ -617,15 +617,15 @@
         ],
         "d1": "+0.00%",
         "d1_dir": "neutral",
-        "d7": "-3.07%",
+        "d7": "-3.67%",
         "d7_dir": "down",
-        "ytd": "-18.12%",
+        "ytd": "-18.56%",
         "ytd_dir": "down",
         "source_url": null,
         "source_name": "Yahoo Finance (koszyk)"
       }
     ]
   },
-  "updatedAt": "2026-03-13T07:08:15.425Z",
-  "updatedAtPL": "13.03.2026, 08:08:15"
+  "updatedAt": "2026-03-14T07:08:15.628Z",
+  "updatedAtPL": "14.03.2026, 08:08:15"
 }
