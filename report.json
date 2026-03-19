@@ -85,26 +85,26 @@
       },
       {
         "name": "BTC",
-        "value": "$70,680",
+        "value": "$70,676",
         "currency": "USD",
         "d1": "-0.81%",
         "d1_dir": "down",
         "d7": "+0.19%",
         "d7_dir": "neutral",
-        "ytd": "-19.24%",
+        "ytd": "-19.25%",
         "ytd_dir": "down",
         "source_url": "https://www.coingecko.com/en/coins/bitcoin",
         "source_name": "CoinGecko"
       },
       {
         "name": "ETH",
-        "value": "$2,154",
+        "value": "$2,153",
         "currency": "USD",
-        "d1": "-2.25%",
+        "d1": "-2.29%",
         "d1_dir": "down",
-        "d7": "+3.72%",
+        "d7": "+3.68%",
         "d7_dir": "up",
-        "ytd": "-27.40%",
+        "ytd": "-27.43%",
         "ytd_dir": "down",
         "source_url": "https://www.coingecko.com/en/coins/ethereum",
         "source_name": "CoinGecko"
@@ -626,6 +626,6 @@
       }
     ]
   },
-  "updatedAt": "2026-03-19T21:13:54.727Z",
-  "updatedAtPL": "19.03.2026, 22:13:54"
+  "updatedAt": "2026-03-19T21:16:18.079Z",
+  "updatedAtPL": "19.03.2026, 22:16:18"
 }
