@@ -50,7 +50,7 @@
         "raw_last": 25779.310546875,
         "d1": "+0.78%",
         "d1_dir": "up",
-        "d7": "+4.49%",
+        "d7": "+4.68%",
         "d7_dir": "up",
         "ytd": "+5.05%",
         "ytd_dir": "up",
@@ -64,7 +64,7 @@
         "raw_last": 8508.0703125,
         "d1": "+0.39%",
         "d1_dir": "neutral",
-        "d7": "+1.47%",
+        "d7": "+1.68%",
         "d7_dir": "up",
         "ytd": "+3.82%",
         "ytd_dir": "up",
@@ -85,26 +85,26 @@
       },
       {
         "name": "BTC",
-        "value": "$62,420",
+        "value": "$62,725",
         "currency": "USD",
-        "d1": "-0.19%",
-        "d1_dir": "neutral",
-        "d7": "+4.13%",
+        "d1": "-0.58%",
+        "d1_dir": "down",
+        "d7": "+5.22%",
         "d7_dir": "up",
-        "ytd": "-28.68%",
+        "ytd": "-28.33%",
         "ytd_dir": "down",
         "source_url": "https://www.coingecko.com/en/coins/bitcoin",
         "source_name": "CoinGecko"
       },
       {
         "name": "ETH",
-        "value": "$1,752",
+        "value": "$1,763",
         "currency": "USD",
-        "d1": "-0.24%",
-        "d1_dir": "neutral",
-        "d7": "+11.47%",
+        "d1": "-0.89%",
+        "d1_dir": "down",
+        "d7": "+12.17%",
         "d7_dir": "up",
-        "ytd": "-40.95%",
+        "ytd": "-40.57%",
         "ytd_dir": "down",
         "source_url": "https://www.coingecko.com/en/coins/ethereum",
         "source_name": "CoinGecko"
@@ -116,7 +116,7 @@
         "raw_last": 4187.2998046875,
         "d1": "+1.81%",
         "d1_dir": "up",
-        "d7": "+2.66%",
+        "d7": "+4.10%",
         "d7_dir": "up",
         "ytd": "-2.95%",
         "ytd_dir": "down",
@@ -130,7 +130,7 @@
         "raw_last": 62.814998626708984,
         "d1": "+3.58%",
         "d1_dir": "up",
-        "d7": "+6.08%",
+        "d7": "+7.98%",
         "d7_dir": "up",
         "ytd": "-10.97%",
         "ytd_dir": "down",
@@ -144,7 +144,7 @@
         "raw_last": 6.223999977111816,
         "d1": "+1.79%",
         "d1_dir": "up",
-        "d7": "+1.34%",
+        "d7": "+2.07%",
         "d7_dir": "up",
         "ytd": "+10.35%",
         "ytd_dir": "up",
@@ -158,7 +158,7 @@
         "raw_last": 68.77999877929688,
         "d1": "+0.13%",
         "d1_dir": "neutral",
-        "d7": "-0.65%",
+        "d7": "-2.78%",
         "d7_dir": "down",
         "ytd": "+19.99%",
         "ytd_dir": "up",
@@ -499,24 +499,24 @@
             "sym": "AIXA.DE",
             "value": "€49.28",
             "currency": "EUR",
-            "d1": "-4.50%",
-            "d1_dir": "down"
+            "d1": "+5.98%",
+            "d1_dir": "up"
           },
           {
             "name": "SMHN",
             "sym": "SMHN.DE",
             "value": "€88.60",
             "currency": "EUR",
-            "d1": "-3.33%",
-            "d1_dir": "down"
+            "d1": "+5.73%",
+            "d1_dir": "up"
           },
           {
             "name": "IFX",
             "sym": "IFX.DE",
             "value": "€77.38",
             "currency": "EUR",
-            "d1": "-0.67%",
-            "d1_dir": "down"
+            "d1": "+1.35%",
+            "d1_dir": "up"
           },
           {
             "name": "ASM",
@@ -531,13 +531,13 @@
             "sym": "TPE.DE",
             "value": "€41.74",
             "currency": "EUR",
-            "d1": "-3.25%",
-            "d1_dir": "down"
+            "d1": "+5.94%",
+            "d1_dir": "up"
           }
         ],
-        "d1": "-5.28%",
+        "d1": "-3.82%",
         "d1_dir": "down",
-        "d7": "-6.30%",
+        "d7": "-6.44%",
         "d7_dir": "down",
         "ytd": "+110.42%",
         "ytd_dir": "up",
@@ -617,15 +617,15 @@
         ],
         "d1": "-1.31%",
         "d1_dir": "down",
-        "d7": "+1.48%",
+        "d7": "+0.91%",
         "d7_dir": "up",
-        "ytd": "-5.40%",
+        "ytd": "-6.09%",
         "ytd_dir": "down",
         "source_url": null,
         "source_name": "Yahoo Finance (koszyk)"
       }
     ]
   },
-  "updatedAt": "2026-07-04T07:08:15.591Z",
-  "updatedAtPL": "4.07.2026, 09:08:15"
+  "updatedAt": "2026-07-05T07:08:15.702Z",
+  "updatedAtPL": "5.07.2026, 09:08:15"
 }
