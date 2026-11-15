@@ -85,26 +85,26 @@
       },
       {
         "name": "BTC",
-        "value": "$67,371",
+        "value": "$64,307",
         "currency": "USD",
-        "d1": "-1.38%",
-        "d1_dir": "down",
-        "d7": "-11.09%",
+        "d1": "+0.29%",
+        "d1_dir": "neutral",
+        "d7": "-13.96%",
         "d7_dir": "down",
-        "ytd": "-23.07%",
+        "ytd": "-26.57%",
         "ytd_dir": "down",
         "source_url": "https://www.coingecko.com/en/coins/bitcoin",
         "source_name": "CoinGecko"
       },
       {
         "name": "ETH",
-        "value": "$1,904",
+        "value": "$1,788",
         "currency": "USD",
-        "d1": "-1.45%",
-        "d1_dir": "down",
-        "d7": "-14.88%",
+        "d1": "+1.10%",
+        "d1_dir": "up",
+        "d7": "-15.84%",
         "d7_dir": "down",
-        "ytd": "-35.89%",
+        "ytd": "-39.80%",
         "ytd_dir": "down",
         "source_url": "https://www.coingecko.com/en/coins/ethereum",
         "source_name": "CoinGecko"
@@ -116,7 +116,7 @@
         "raw_last": 3886.300048828125,
         "d1": "+0.03%",
         "d1_dir": "neutral",
-        "d7": "-4.63%",
+        "d7": "-5.55%",
         "d7_dir": "down",
         "ytd": "-10.24%",
         "ytd_dir": "down",
@@ -125,28 +125,28 @@
       },
       {
         "name": "Srebro",
-        "value": "$49.03",
+        "value": "$49.12",
         "currency": "USD",
-        "raw_last": 49.03099822998047,
-        "d1": "-1.88%",
+        "raw_last": 49.12099838256836,
+        "d1": "-1.70%",
         "d1_dir": "down",
-        "d7": "-5.35%",
+        "d7": "-6.55%",
         "d7_dir": "down",
-        "ytd": "-30.51%",
+        "ytd": "-30.38%",
         "ytd_dir": "down",
         "source_url": "https://finance.yahoo.com/quote/SI=F",
         "source_name": "Yahoo Finance"
       },
       {
         "name": "Miedź",
-        "value": "$6.08",
+        "value": "$6.09",
         "currency": "USD",
-        "raw_last": 6.079500198364258,
-        "d1": "-1.67%",
+        "raw_last": 6.0904998779296875,
+        "d1": "-1.49%",
         "d1_dir": "down",
-        "d7": "-2.23%",
+        "d7": "-3.76%",
         "d7_dir": "down",
-        "ytd": "+7.79%",
+        "ytd": "+7.99%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/HG=F",
         "source_name": "Yahoo Finance"
@@ -158,8 +158,8 @@
         "raw_last": 88.55999755859375,
         "d1": "-0.20%",
         "d1_dir": "neutral",
-        "d7": "-2.50%",
-        "d7_dir": "down",
+        "d7": "+1.97%",
+        "d7_dir": "up",
         "ytd": "+54.50%",
         "ytd_dir": "up",
         "source_url": "https://finance.yahoo.com/quote/CL=F",
@@ -489,49 +489,49 @@
           {
             "name": "AIXA",
             "sym": "AIXA.DE",
-            "value": "€33.71",
+            "value": "€32.14",
             "currency": "EUR",
-            "d1": "-1.69%",
+            "d1": "-4.66%",
             "d1_dir": "down"
           },
           {
             "name": "SMHN",
             "sym": "SMHN.DE",
-            "value": "€50.45",
+            "value": "€48.30",
             "currency": "EUR",
-            "d1": "-2.98%",
+            "d1": "-4.26%",
             "d1_dir": "down"
           },
           {
             "name": "IFX",
             "sym": "IFX.DE",
-            "value": "€52.11",
+            "value": "€49.88",
             "currency": "EUR",
-            "d1": "-0.02%",
-            "d1_dir": "neutral"
+            "d1": "-4.29%",
+            "d1_dir": "down"
           },
           {
             "name": "ASM",
             "sym": "ASM.AS",
-            "value": "€724.20",
+            "value": "€694.60",
             "currency": "EUR",
-            "d1": "-0.47%",
-            "d1_dir": "neutral"
+            "d1": "-4.09%",
+            "d1_dir": "down"
           },
           {
             "name": "TPE",
             "sym": "TPE.DE",
-            "value": "€27.42",
+            "value": "€25.54",
             "currency": "EUR",
-            "d1": "+3.94%",
-            "d1_dir": "up"
+            "d1": "-6.86%",
+            "d1_dir": "down"
           }
         ],
-        "d1": "-2.85%",
+        "d1": "-4.00%",
         "d1_dir": "down",
-        "d7": "+9.10%",
+        "d7": "+7.78%",
         "d7_dir": "up",
-        "ytd": "+53.49%",
+        "ytd": "+51.87%",
         "ytd_dir": "up",
         "source_url": null,
         "source_name": "Yahoo Finance (koszyk)"
@@ -618,6 +618,6 @@
       }
     ]
   },
-  "updatedAt": "2026-11-14T07:08:16.243Z",
-  "updatedAtPL": "14.11.2026, 08:08:16"
+  "updatedAt": "2026-11-15T07:08:15.891Z",
+  "updatedAtPL": "15.11.2026, 08:08:15"
 }
